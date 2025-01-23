@@ -1,4 +1,4 @@
-# Weather App Setup Guide
+# Weather App Setup 
 
 Please follow these steps to run your Weather App project without any errors:
 
@@ -20,9 +20,6 @@ Note: Your API key will look something like this: c361b273c4304b3107f91953241109
     `npm run dev` This command will start the local development server.
 
 Click on the `localhost` link that appears in the terminal to open the project in your browser and get the weather data.
-
-If you still get an error or get stuck, feel free to message me on Buy Me a Coffee.
-https://buymeacoffee.com/codingnepal
 
 ---
 
